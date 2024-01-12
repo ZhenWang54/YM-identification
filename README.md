@@ -1,5 +1,6 @@
 # YM-identification
-For the Journal of Royal society Interface accessing
+For the Journal of Royal society Interface.
+Unzip the file ElementFIle_US_exp3.zip and run the corresponding MATLAB code to obtain the identified Young's modulus.
 This matlab code is the underlying code for Young's modulus identification.
 Run Main_simulation_US_Disp_use.m：
 Get the calculated R-Young's-modulus: R-Youngs= 3.2435；
